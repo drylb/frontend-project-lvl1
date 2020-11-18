@@ -11,10 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/drylb/frontend-project-lvl1.git"
   },
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "author": "Vlad Sergy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/drylb/frontend-project-lvl1/issues"
   },
   "homepage": "https://github.com/drylb/frontend-project-lvl1#readme"
+  
 }
