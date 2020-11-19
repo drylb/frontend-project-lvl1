@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-Welcome to the Brain Games!
+import * as helloUser from '../src/cli.js';
+helloUser;
