@@ -1,6 +1,6 @@
 # Brain Games Class Project
 
-Install command:
+Setup:
 ```sh
 make install
 ```

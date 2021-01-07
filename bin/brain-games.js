@@ -1,5 +1,4 @@
 #!/usr/bin/env node
+import askUserName from '../src/cli.js';
 
-import userName from '../src/cli.js';
-
-userName();
+askUserName();
