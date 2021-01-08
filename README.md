@@ -23,3 +23,7 @@ make install
 ## Brain-Game Gcd:
 
 [![asciicast](https://asciinema.org/a/OejfFxWH4JA7wjjRM70sSxcka.svg)](https://asciinema.org/a/OejfFxWH4JA7wjjRM70sSxcka)
+
+## Brain-Game Progression:
+
+[![asciicast](https://asciinema.org/a/5GcPIaFUiF9xxjnpJXX5waNif.svg)](https://asciinema.org/a/5GcPIaFUiF9xxjnpJXX5waNif)
