@@ -12,6 +12,10 @@ make install
 
 [![Actions Status](https://github.com/drylb/frontend-project-lvl1/workflows/.github/workflows/node.js.yml/badge.svg)](https://github.com/drylb/frontend-project-lvl1/actions)
 
-## Brain Game - Even:
+## Brain-Game Even:
 
-[![asciicast](https://asciinema.org/a/oNs2VUtyOB4y4a1NO6J3RtXIK.svg)](https://asciinema.org/a/oNs2VUtyOB4y4a1NO6J3RtXIK)
+[![asciicast](https://asciinema.org/a/KNhzUibWzvKu6gU7sMOgpX7lU.svg)](https://asciinema.org/a/KNhzUibWzvKu6gU7sMOgpX7lU)
+
+## Brain-Game Calc:
+
+[![asciicast](https://asciinema.org/a/qRbrL1vjPA7IlpklmaDtRzU1n.svg)](https://asciinema.org/a/qRbrL1vjPA7IlpklmaDtRzU1n)

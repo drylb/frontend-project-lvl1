@@ -4,9 +4,9 @@ const numberOfRounds = 3;
 
 const playGame = (gameDescription, gameData) => {
   console.log('Welcome to the brain games');
-  console.log(gameDescription);
   const userName = readlineSync.question('May I have your name ? ');
   console.log(`Hi ${userName} !`);
+  console.log(gameDescription);
   for (let i = 0; i < numberOfRounds; i += 1) {
     const { question, answer } = gameData();
     console.log(`Qestion: ${question}`);
@@ -14,7 +14,7 @@ const playGame = (gameDescription, gameData) => {
     if (answer === userAnswer) {
       console.log('Correct !');
     } else {
-      console.log(`'yes' is wrong answer ${userName} ;(. Correct answer was 'no'.`);
+      console.log(`${userAnswer} is wrong answer ;(. Correct answer was ${answer}.`);
       console.log('Let\'s try again');
       return;
     }
@@ -23,8 +23,9 @@ const playGame = (gameDescription, gameData) => {
 };
 
 const getRandom = (min, max) => Math.floor(Math.random() * (max - min) + min);
-
 export {
   playGame,
   getRandom,
 };
+
+// console.log(getRandomSign());
