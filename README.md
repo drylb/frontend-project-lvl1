@@ -1,4 +1,4 @@
-# Brain Games Class Project
+# Brain Games
 
 Setup:
 ```sh
@@ -27,3 +27,7 @@ make install
 ## Brain-Game Progression:
 
 [![asciicast](https://asciinema.org/a/5GcPIaFUiF9xxjnpJXX5waNif.svg)](https://asciinema.org/a/5GcPIaFUiF9xxjnpJXX5waNif)
+
+## Brain-Game Prime:
+
+[![asciicast](https://asciinema.org/a/H3P3y9g2TEdxvlKVsBcJFLBsn.svg)](https://asciinema.org/a/H3P3y9g2TEdxvlKVsBcJFLBsn)
