@@ -19,3 +19,7 @@ make install
 ## Brain-Game Calc:
 
 [![asciicast](https://asciinema.org/a/qRbrL1vjPA7IlpklmaDtRzU1n.svg)](https://asciinema.org/a/qRbrL1vjPA7IlpklmaDtRzU1n)
+
+## Brain-Game Gcd:
+
+[![asciicast](https://asciinema.org/a/OejfFxWH4JA7wjjRM70sSxcka.svg)](https://asciinema.org/a/OejfFxWH4JA7wjjRM70sSxcka)
