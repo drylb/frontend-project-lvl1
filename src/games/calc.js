@@ -29,8 +29,7 @@ const runGame = () => {
     const randomNum2 = getRandom(minNumber, maxNumber);
     const sign = getRandomSign();
     const question = `${randomNum1} ${sign} ${randomNum2} ?`;
-    const calcAnswer = calculateOperation(randomNum1, randomNum2, sign);
-    const answer = String(calcAnswer);
+    const answer = `${calculateOperation(randomNum1, randomNum2, sign)}`;
     return { question, answer };
   };
   return playGame(gameDescription, gameData);
