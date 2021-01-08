@@ -10,11 +10,11 @@ const playGame = (gameDescription, gameData) => {
   for (let i = 0; i < numberOfRounds; i += 1) {
     const { question, answer } = gameData();
     console.log(`Qestion: ${question}`);
-    const userAnswer = readlineSync.question('Your answer? ');
+    const userAnswer = readlineSync.question('Your answer: ');
     if (answer === userAnswer) {
       console.log('Correct!');
     } else {
-      console.log(`${userAnswer} is wrong answer ;(. Correct answer was ${answer}.`);
+      console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${answer}'.`);
       console.log(`Let's try again ${userName}`);
       return;
     }
