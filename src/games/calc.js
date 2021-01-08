@@ -28,7 +28,7 @@ const runGame = () => {
     const randomNum1 = getRandom(minNumber, maxNumber);
     const randomNum2 = getRandom(minNumber, maxNumber);
     const sign = getRandomSign();
-    const question = `${randomNum1} ${sign} ${randomNum2} ?`;
+    const question = `${randomNum1} ${sign} ${randomNum2}`;
     const answer = `${calculateOperation(randomNum1, randomNum2, sign)}`;
     return { question, answer };
   };
