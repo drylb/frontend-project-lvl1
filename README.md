@@ -14,20 +14,20 @@ make install
 
 ## Brain-Game Even:
 
-[![asciicast](https://asciinema.org/a/KNhzUibWzvKu6gU7sMOgpX7lU.svg)](https://asciinema.org/a/KNhzUibWzvKu6gU7sMOgpX7lU)
+[![asciicast](https://asciinema.org/a/W7XwnjVdgtuvYxzKxteivOs31.svg)](https://asciinema.org/a/W7XwnjVdgtuvYxzKxteivOs31)
 
 ## Brain-Game Calc:
 
-[![asciicast](https://asciinema.org/a/qRbrL1vjPA7IlpklmaDtRzU1n.svg)](https://asciinema.org/a/qRbrL1vjPA7IlpklmaDtRzU1n)
+[![asciicast](https://asciinema.org/a/n77Hh8Ldruoz00zGMRklt6onL.svg)](https://asciinema.org/a/n77Hh8Ldruoz00zGMRklt6onL)
 
 ## Brain-Game Gcd:
 
-[![asciicast](https://asciinema.org/a/OejfFxWH4JA7wjjRM70sSxcka.svg)](https://asciinema.org/a/OejfFxWH4JA7wjjRM70sSxcka)
+[![asciicast](https://asciinema.org/a/PIoMgMAUR7FnMLCijv6rdO69k.svg)](https://asciinema.org/a/PIoMgMAUR7FnMLCijv6rdO69k)
 
 ## Brain-Game Progression:
 
-[![asciicast](https://asciinema.org/a/5GcPIaFUiF9xxjnpJXX5waNif.svg)](https://asciinema.org/a/5GcPIaFUiF9xxjnpJXX5waNif)
+[![asciicast](https://asciinema.org/a/8VmnnN7RoYDuoQQGpePNT1xic.svg)](https://asciinema.org/a/8VmnnN7RoYDuoQQGpePNT1xic)
 
 ## Brain-Game Prime:
 
-[![asciicast](https://asciinema.org/a/H3P3y9g2TEdxvlKVsBcJFLBsn.svg)](https://asciinema.org/a/H3P3y9g2TEdxvlKVsBcJFLBsn)
+[![asciicast](https://asciinema.org/a/18YWjAn1ubXtePwmJ1AoFBBPN.svg)](https://asciinema.org/a/18YWjAn1ubXtePwmJ1AoFBBPN)
