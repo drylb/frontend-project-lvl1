@@ -12,10 +12,10 @@ const runGame = () => {
     const progressionArray = [];
     const startNum = getRandom(minNumber, maxNumber);
     const progressionGap = getRandom(minNumber, maxNumber);
-    const dotsIdx = getRadomIndex();
+    const hiddenPosition = getRadomIndex();
     let progression = startNum;
     for (let i = 0; i < progressionLength; i += 1) {
-      if (i === dotsIdx) {
+      if (i === hiddenPosition) {
         progressionArray.push('..');
       } else {
         progressionArray.push(progression);
@@ -23,7 +23,9 @@ const runGame = () => {
       progression += progressionGap;
     }
     const question = progressionArray.join(' ');
-    const answer = `${progressionArray[dotsIdx - 1] + progressionGap}`;
+    const answer = progressionArray[hiddenPosition - 1]
+      ? `${progressionArray[hiddenPosition - 1] + progressionGap}`
+      : `${progressionArray[hiddenPosition + 1] - progressionGap}`;
     return { question, answer };
   };
   return playGame(gameDescription, gameData);
